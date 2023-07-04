@@ -11,9 +11,9 @@ Benefits:
 
    
 Tech stack :
-Backend framework: Django
-Frontend framework: Bootstrap
-Other: HTML CSS JAVASCRIPT
+1 . Backend framework: Django
+2. Frontend framework: Bootstrap
+3. Other: HTML CSS JAVASCRIPT
 
 Functionalities Implemented
 1. Login and Signup
